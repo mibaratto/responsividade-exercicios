@@ -16,24 +16,18 @@
     background-color: steelblue;
     grid-column: 2;
     grid-row: 1;
-    
-
   }
   
   #item-2 {
     background-color: #fe7e02;
     grid-column: 1;
     grid-row: 1;
-
-
   }
   
   #item-3 {
     background-color: #45525b;
     grid-column: 3;
     grid-row: 1;
-
-
   }
 }
 
